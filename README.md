@@ -1,7 +1,7 @@
 ## Hi there 👋
 😃 Wellcome to my profile. I'm a Fullstack Deverloper, who'll build to you a complete website with everything you can think.
 ## Contact me on:
-📧 <a href="mailto:thanhtungme29@gmail.com">thanhtungme29@gmail.com</a>
+📧 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=thanhtungme29@gmail.com">thanhtungme29@gmail.com</a>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
