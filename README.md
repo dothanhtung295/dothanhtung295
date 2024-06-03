@@ -1,5 +1,15 @@
 ## Hi there 👋
-
+😃 Wellcome to my profile. I'm a Fullstack Deverloper, who'll build to you a complete website with everything you can think.
+## Contact me on:
+📧 <a href="mailto:thanhtungme29@gmail.com">thanhtungme29@gmail.com</a>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/do-thanh-tung-27b746232/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 <!--
 **dothanhtung295/dothanhtung295** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
