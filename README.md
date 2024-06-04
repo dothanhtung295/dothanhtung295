@@ -3,7 +3,7 @@
 ### Contact me on:
 📧 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=thanhtungme29@gmail.com">thanhtungme29@gmail.com</a>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm9pczIxa2VoN3FuajQ4YzQyNHliaGdnZXVsZDR5Znlzb3ZsOW9vcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="300"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/do-thanh-tung-27b746232/">
