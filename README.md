@@ -10,6 +10,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
+### Github Analytics
+
+<div id="badges" align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dothanhtung295" alt="LinkedIn Badge"/>
+</div>
 <!--
 **dothanhtung295/dothanhtung295** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
